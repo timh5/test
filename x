@@ -3,14 +3,15 @@
 3
 4 -- m
 5 - m
-6 m 
-mmmmm 1
-mmmmm 1
-mmmm 2 		--- @2
-mmmm 2		--- @2
-mmmm 2		--- @2   @1
-mm2  xx
-
+6 m
+[[[[[[[[[[MM
+mmmmm 1                  MM1
+mmmmm 1                  MM2
+mmmm 2 		--- @2       MM3
+mmmm 2		--- @2       MM4
+mmmm 2		--- @2   @1  MM5
+mm2  xx                  MM6
+]]]]]]]]]]]MM
 f1
 4
 5
