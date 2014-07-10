@@ -26,3 +26,7 @@ f1 continue
 
 
 @1 -
+f2
+a
+b
+c
