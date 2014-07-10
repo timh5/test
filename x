@@ -17,3 +17,8 @@ f1 continue
 10
 11
 12
+
+f2
+a
+b
+c
