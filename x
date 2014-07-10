@@ -8,7 +8,7 @@ mmmmm 1
 mmmmm 1
 mmmm 2 		--- @2
 mmmm 2		--- @2   @1
-mm2
+mm2  xx
 
 f1
 4
